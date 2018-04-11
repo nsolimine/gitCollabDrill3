@@ -11,3 +11,8 @@ function addArray(array) {
 }
 
 [1, 2, 3, 4].reduce((a, b) => {return a * b});
+
+function checkEven () {
+  n = number(n);
+  return n === 0 || !!(n && (n%2));
+}
