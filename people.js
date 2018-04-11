@@ -1,0 +1,1 @@
+var people = [{name: "chas", age: 17}, {name: "nick", age: 43}, {name: "malcolm", age: 87}]
